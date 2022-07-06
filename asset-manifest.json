@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/UlbiTv-react-ts-course/static/js/main.d8740300.js",
+    "main.js": "/UlbiTv-react-ts-course/static/js/main.c16c741e.js",
     "index.html": "/UlbiTv-react-ts-course/index.html",
-    "main.d8740300.js.map": "/UlbiTv-react-ts-course/static/js/main.d8740300.js.map"
+    "main.c16c741e.js.map": "/UlbiTv-react-ts-course/static/js/main.c16c741e.js.map"
   },
   "entrypoints": [
-    "static/js/main.d8740300.js"
+    "static/js/main.c16c741e.js"
   ]
 }
