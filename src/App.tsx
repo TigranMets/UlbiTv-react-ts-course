@@ -1,8 +1,11 @@
 import React from 'react';
+import Card from './components/Card';
 
 const App = () => {
   return (
-    <div>It's working</div>
+    <Card width='200px' height='200px'>
+      <button>button</button>
+    </Card>
   );
 };
 
