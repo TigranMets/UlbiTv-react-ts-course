@@ -13,8 +13,6 @@ interface CardProps {
   variant: CardVariant;
 }
 
-debugger;
-
 const Card: FC<CardProps> = ({ width, height, variant, onClick, children }) => {
   const [state, setState] = useState(0);
   return (
