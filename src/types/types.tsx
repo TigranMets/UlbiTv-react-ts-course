@@ -4,7 +4,7 @@ export interface IAddress {
     city: string;
 }
 
-export interface IUsers {
+export interface IUser {
     id: number;
     name: string;
     email: string;

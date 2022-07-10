@@ -1,11 +1,11 @@
 import React from 'react';
 import Card, { CardVariant } from './components/Card';
 import UserList from './components/UserList';
-import { IUsers } from './types/types';
+import { IUser } from './types/types';
 
 const App = () => {
 
-  const users: IUsers[] = [
+  const users: IUser[] = [
     {
       name: 'Tigran', id: 1, email: 'gvideo2007@gmail.com',
       address: { city: 'Yerevan', street: 'Komitas', zipcode: 'chgitem' }
